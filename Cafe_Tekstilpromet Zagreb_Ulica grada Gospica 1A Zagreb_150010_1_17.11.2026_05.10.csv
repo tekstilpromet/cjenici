@@ -1,0 +1,75 @@
+﻿Id;Naziv;Kod;Bar kod;Opis;Usluga;Povratna naknada;Jedinica mjere;Porezna stopa;Grupa artikala;Cijena;Pp;Klasifikacija;Sidrena cijena;Datum sidrene cijene
+c283176a-0c34-4375-b3b4-92151be8bff6;Kava ledena;11;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+fad3b46b-d951-411b-862c-a1cb2c5eaaf7;Coca cola zero 0,5 l - Reprezentacija;53;;;Ne;0;kom;PDV 25;Reprezentacija;1,11;0;;1,11;10.09.2026
+f91b058e-e016-491b-b175-cbe1e4052c0d;Kava ledena - Reprezentacija;38;;;Ne;0;kom;PDV 25;Reprezentacija;0,62;0;;0,62;10.09.2026
+e3b28f90-1a1a-4781-94df-64dfb43b7fb7;Cappucino vanilija - Reprezentacija;45;;;Ne;0;kom;PDV 25;Reprezentacija;0,63;0;;0,63;10.09.2026
+7351ef14-03e2-4236-b42c-b566b0647d66;Mlijeko 0,2l - Reprezentacija;33;;;Ne;0;kom;PDV 25;Reprezentacija;0,18;0;;0,18;10.09.2026
+e8d6ad0d-ad2a-4da5-9a09-70b955d815ca;Cappucino irish - Reprezentacija;46;;;Ne;0;kom;PDV 25;Reprezentacija;0,63;0;;0,63;10.09.2026
+ecf136b4-14f5-4d30-b386-485426ba054c;Cockta 0,5 l - Reprezentacija;50;;;Ne;0;kom;PDV 25;Reprezentacija;1,34;0;;1,34;10.09.2026
+20fff747-ad94-4d97-846a-751a1aba00b4;Čaj - Reprezentacija;32;;;Ne;0;kom;PDV 25;Reprezentacija;0,26;0;;0,26;10.09.2026
+2ddd0315-c70d-40ca-a8dc-947ab1559a62;Kava sa šlagom - Reprezentacija;31;;;Ne;0;kom;PDV 25;Reprezentacija;0,6;0;;0,6;10.09.2026
+b2c8aaa9-52ee-406a-82e9-f2a1392f15ce;Čaj med;21;;;Ne;0;kom;PDV 25;Topli napitci;1,7;0;;1,7;10.09.2026
+5fe021dd-aa43-4852-9f5b-9930175a2126;Jana 0,5 l - Reprezentacija;34;;;Ne;0;kom;PDV 25;Reprezentacija;0,9;0;;0,9;10.09.2026
+960fdfd9-77b3-4775-9089-b2c100a5b06c;Juicy naranča 0,2 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,15;0;;1,15;10.09.2026
+bd6d4a99-0983-419d-bfb2-527736846b28;Jamnica 0,5 l - Reprezentacija;37;;;Ne;0;kom;PDV 25;Reprezentacija;0,9;0;;0,9;10.09.2026
+c4addfa6-0728-404e-a33b-30055b1a0acd;Bijela kava;3;;;Ne;0;kom;PDV 25;Topli napitci;1,7;0;;1,7;10.09.2026
+fe03d3f9-f7d9-4a46-a7ef-0f0c674d1db5;Cedevita - Reprezentacija;47;;;Ne;0;kom;PDV 25;Reprezentacija;0,55;0;;0,55;10.09.2026
+a78b35ab-94c8-44bf-932a-2b692e9a655a;Mlijeko 0,2l;6;;;Ne;0;kom;PDV 25;Topli napitci;1,4;0;;1,4;10.09.2026
+5d0e2ed9-5ad3-4bff-bf10-423f8c15d9a9;Jana 1,5 l;8;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,4;0;;2,4;10.09.2026
+63d99dee-06e3-4674-9cd5-4afa11176f1b;Jana 1,5 l - Reprezentacija;35;;;Ne;0;kom;PDV 25;Reprezentacija;0,95;0;;0,95;10.09.2026
+56728228-70f8-471b-bdaf-b369014a4271;Toco naranča 0,25 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,45;0;;1,45;10.09.2026
+b9e60254-e542-48d4-aab2-b2bf00636b6e;Schweppes Tangerine 0,5 l - Reprezentacija;58;;;Ne;0;kom;PDV 25;Reprezentacija;0,96;0;;0,96;10.09.2026
+71924b4b-98f8-43bb-b94b-b3690149f76b;Toco marelica 0,25 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,41;0;;1,41;10.09.2026
+194e4e6f-9fb2-4fb8-82dd-4753f87bd755;Kava s mlijekom - Reprezentacija;29;;;Ne;0;kom;PDV 25;Reprezentacija;0,48;0;;0,48;10.09.2026
+df03b987-9d42-4952-8b36-619113e94246;Ledeni čaj 0,5 l - Reprezentacija;51;;;Ne;0;kom;PDV 25;Reprezentacija;1,1;0;;1,1;10.09.2026
+1cfa6509-5b6e-45f5-a5e3-446ca8cbb8cb;Med - Reprezentacija;54;;;Ne;0;kom;PDV 25;Reprezentacija;0,09;0;;0,09;10.09.2026
+5f67a314-1aca-455f-8798-b2c100a4b12f;Juicy jabuka 0,2 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,1;0;;1,1;10.09.2026
+2b460567-329a-4cda-a9a3-395418b35199;Kava bez kofeina sa mlijekom - Reprezentacija;40;;;Ne;0;kom;PDV 25;Reprezentacija;0,55;0;;0,55;10.09.2026
+fa0c9abe-2d36-4c76-ae49-d33ea2f08868;Kava bijela bez kofeina - Reprezentacija;42;;;Ne;0;kom;PDV 25;Reprezentacija;0,65;0;;0,65;10.09.2026
+75982e6f-8b44-4526-8422-b2bf00909988;Čaj Ginger Breeze - Reprezentacija;59;;;Ne;0;kom;PDV 25;Reprezentacija;0,68;0;;0,68;10.09.2026
+aa546d8e-bb67-4d05-b02e-148643d1d8f0;Cappuccino classic - Reprezentacija;43;;;Ne;0;kom;PDV 25;Reprezentacija;0,63;0;;0,63;10.09.2026
+30fe1d52-1d50-4fec-9e55-26d1939badde;Bijela kava - Reprezentacija;30;;;Ne;0;kom;PDV 25;Reprezentacija;0,57;0;;0,57;10.09.2026
+70046048-84b4-4971-b580-d73c3c436566;Kava bez kofeina sa šlagom - Reprezentacija;41;;;Ne;0;kom;PDV 25;Reprezentacija;0,67;0;;0,67;10.09.2026
+9f9a3097-2941-4bea-aff9-e7d06ac3b002;Cappucino čokolada - Reprezentacija;44;;;Ne;0;kom;PDV 25;Reprezentacija;0,63;0;;0,63;10.09.2026
+c3956037-f9cd-4eb0-ae34-d94e9d5821b7;Kava sa šlagom;4;;;Ne;0;kom;PDV 25;Topli napitci;1,5;0;;1,5;10.09.2026
+9f8f9288-6ad6-4072-aad8-d936df77ca6f;Kava bijela bez kofeina;15;;;Ne;0;kom;PDV 25;Topli napitci;1,8;0;;1,8;10.09.2026
+d1f00008-8021-4f31-bb3b-b2c100a52810;Juicy marelica 0,2 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+f2aaac3f-48e7-45a3-b6b6-b369014912cc;Toco C. ribiz 0,25 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,55;0;;1,55;10.09.2026
+ca5ad5c3-0b1a-4946-8cfa-b2bf009065c9;Čaj Ginger Breeze;60;;;Ne;0;kom;PDV 25;Topli napitci;2,5;0;;2,5;10.09.2026
+3548b5d6-d8be-4246-85c7-753b0240e3f4;Kava espresso - Reprezentacija;28;;;Ne;0;kom;PDV 25;Reprezentacija;0,39;0;;0,39;10.09.2026
+af97ea35-dbb4-4d8b-ab7f-b2b5006f3079;Kava s mlijekom mala ;55;;;Ne;0;kom;PDV 25;Topli napitci;1,4;0;;1,4;10.09.2026
+209b28a7-b52e-4bbc-995d-82affcde8526;Kava bez kofeina - Reprezentacija;39;;;Ne;0;kom;PDV 25;Reprezentacija;0,47;0;;0,47;10.09.2026
+9e5fb298-b0da-4d9d-b204-b66405c0deaa;Čaj med - Reprezentacija;48;;;Ne;0;kom;PDV 25;Reprezentacija;0,44;0;;0,44;10.09.2026
+88377bab-fdbe-4714-88b5-842d9b145471;Jamnica 0,5 l;10;;;Ne;0;kom;PDV 25;Bezalkoholna pića;1,9;0;;1,9;10.09.2026
+51b0cd16-c91d-4d34-b15b-afb5241c581a;Cockta 0,5 l;23;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,3;0;;2,3;10.09.2026
+bb24781d-48ad-4477-bcdd-b2c100a45e66;Juicy jabuka 0,2 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+60a8ea0c-f97b-4b40-8216-b2c100a55c52;Juicy marelica 0,2 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,11;0;;1,11;10.09.2026
+174d0943-ff8b-44f4-aff2-a8ca476ae1eb;Kava bez kofeina sa šlagom;14;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+ce5a1e75-bb7a-46a2-a318-1cc5eac2c53b;Coca cola 0,5 l - Reprezentacija;49;;;Ne;0;kom;PDV 25;Reprezentacija;1,11;0;;1,11;10.09.2026
+cbc499cf-2161-442f-ac85-f167941a26cd;Schweppes B. Lemon 0,5 l - Reprezentacija;52;;;Ne;0;kom;PDV 25;Reprezentacija;1,21;0;;1,21;10.09.2026
+b443f2ed-f8c4-4577-8521-b2b5006f9b53;Kava s mlijekom mala - Reprezentacija;56;;;Ne;0;kom;PDV 25;Reprezentacija;0,44;0;;0,44;10.09.2026
+a09f92fd-2c4c-45c1-b89a-ca819e50438e;Juicy c. ribiz 0,2 l - Reprezentacija;36;;;Ne;0;kom;PDV 25;Reprezentacija;1,55;0;;1,55;10.09.2026
+7be5185a-ba16-4636-92f4-b36901495edc;Toco jabuka 0,25 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+e042c02b-402f-41cc-b9c9-b3690149a587;Toco jabuka 0,25 l - Reprezentacija;;;;Ne;0;kom;PDV 25;Reprezentacija;1,41;0;;1,41;10.09.2026
+d9caf807-e23c-4405-a314-cf37ec19b98e;Juicy c. ribiz 0,2 l;9;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+224f0a21-1045-47fc-8436-fada86313b38;Čaj;5;;;Ne;0;kom;PDV 25;Topli napitci;1,4;0;;1,4;10.09.2026
+c3f88504-9d41-4d45-b9ee-290ed61e3bef;Cappucino irish;19;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+2c0462ea-6dd4-45b2-b262-b3690149cbe0;Toco marelica 0,25 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+2a891ac2-f5c5-4a35-87e8-acb91d67b9d4;Cappuccino classic;16;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+61e3aba3-6cd1-4486-bc01-90fe4f83cf13;Ledeni čaj 0,5 l;24;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,3;0;;2,3;10.09.2026
+a5eb1989-c394-47b5-8d94-1c1ed5f15084;Coca cola zero 0,5 l;26;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,3;0;;2,3;10.09.2026
+70897014-43a7-4571-a9db-b2bf0063361b;Schweppes Tangerine 0,5 l;57;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,3;0;;2,3;10.09.2026
+ca7e5e5a-200e-4d84-bde3-87f159d10d92;Kava espresso;1;;;Ne;0;kom;PDV 25;Topli napitci;1,3;0;;1,3;10.09.2026
+862fe58c-5c26-4391-8b36-cc3dac43e9b5;Kava s mlijekom ;2;;;Ne;0;kom;PDV 25;Topli napitci;1,5;0;;1,5;10.09.2026
+84c48061-ebbf-498a-a0d9-7d59e91eace5;Kava bez kofeina;12;;;Ne;0;kom;PDV 25;Topli napitci;1,4;0;;1,4;10.09.2026
+ee7c69e5-4389-4b41-ba49-6c6af764c701;Schweppes B. Lemon 0,5 l;25;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,3;0;;2,3;10.09.2026
+5ea85ce5-9d29-4211-8f88-a4b30dcb8494;Cappucino vanilija;18;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+0220aa6a-b5b8-4e61-87f2-dbf6086855f5;Jana 0,5 l;7;;;Ne;0;kom;PDV 25;Bezalkoholna pića;1,9;0;;1,9;10.09.2026
+222ca3e8-7da1-417f-8578-00b76c148bf3;Kava bez kofeina sa mlijekom;13;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+4676ad31-9df4-4d7f-9bc9-b2c100a59860;Juicy naranča 0,2 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+ea091060-6580-4a40-882e-f260043a0a93;Coca cola 0,5 l;22;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,3;0;;2,3;10.09.2026
+0d8e1f8a-62ff-4ced-b40b-b369014a213b;Toco naranča 0,25 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+b4fec0af-640a-49fe-824f-b3690148111e;Toco C. ribiz 0,25 l;;;;Ne;0;kom;PDV 25;Bezalkoholna pića;2,5;0;;2,5;10.09.2026
+5b89618b-ef73-4af4-9a03-facd7781c10d;Med;27;;;Ne;0;kom;PDV 25;Topli napitci;0,3;0;;0,3;10.09.2026
+ee29dc02-92ff-4f83-84d1-7fdbf6a5bae7;Cappucino čokolada;17;;;Ne;0;kom;PDV 25;Topli napitci;1,6;0;;1,6;10.09.2026
+b871f3b5-adb4-44fe-950c-c8a85c0b35a3;Cedevita;20;;;Ne;0;kom;PDV 25;Bezalkoholna pića;1,9;0;;1,9;10.09.2026
